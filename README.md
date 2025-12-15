@@ -38,14 +38,21 @@ PRODIGY_ML_01_APP
 └── static
     └── style.css
 ```
-'''
+
+---
+
 ## ▶️ How to Run the Application
 
-1. Run the Flask app:
+1. Install required libraries:
 ```bash
+pip install flask scikit-learn numpy joblib
+
+2.Run the app:
+
 python app.py
 
-2.Open your browser and visit:
+3.Open browser and visit:
 
 http://127.0.0.1:5000/
+
 
