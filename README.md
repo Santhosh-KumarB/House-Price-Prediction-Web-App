@@ -50,11 +50,13 @@ House-Price-Prediction-Web-App
 ## ▶️ How to Run the Application
 
 1. Install dependencies:
+2. 
 pip install flask scikit-learn numpy
 
-2. Run the Flask app:
+3. Run the Flask app:
 
 python app.py
 
 3. Open your browser and visit:
+   
 http://127.0.0.1:5000/
